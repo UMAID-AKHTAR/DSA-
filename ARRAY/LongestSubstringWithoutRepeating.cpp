@@ -20,7 +20,7 @@ public:
                 mp[s[i]] = i;
             }
         }
-        return {mx,mp};
+        return mx;
     }
 };
 
