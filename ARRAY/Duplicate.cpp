@@ -21,6 +21,9 @@ int main(){
         cout<<arr[i]<<" ";
     }
     cout<<endl;
+      for(int i=0; i<size; i++){
+        cout<<arr[i]<<" ";
+    } cout<<endl;
     size=pointer;
 
     for(int i=0; i<size; i++){
